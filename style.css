@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+
+.container{
+     background-color: olive; 
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+}
+
+
+.jane{
+    background-color: aqua; 
+    height: 600px;
+    width: 100%;
+    text-align: center;
+    margin-top: 200px;
+
+
+}
+
+.generate{
+    background-color: palegoldenrod;
+    height: 300px;
+    width: 400px;
+    text-align: center;
+    margin-left: 45%;
+    margin-top: 10%;
+    padding: 20px;
+}
+
+#book{
+    font-size: 40px;
+    color:black;
+    font-weight: 400;
+
+
+}
